@@ -1,0 +1,12 @@
+{
+    "name": "adeli/twig",
+    "authors": [
+        {
+            "name": "AdelineDb",
+            "email": "adeline.dubosc@hotmail.fr"
+        }
+    ],
+    "require": {
+        "twig/twig": "^2.7"
+    }
+}
